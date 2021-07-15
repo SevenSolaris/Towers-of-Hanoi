@@ -1,3 +1,4 @@
 """
-This class is the main entry point for this project.
+This script is the entry point for the Towers-of-Hanoi Python project.
+Preferred Python version is Python 3.9.
 """
